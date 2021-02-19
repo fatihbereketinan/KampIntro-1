@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
-    interface IKrediManager //interface kullanılırsa metodu içermek zorunda Interfaceler I harfi ile başlar.
+    interface IKrediManager //interface kullanılırsa, kullanılan yer metodu içermek zorunda, Interfaceler I harfi ile başlar.
     {
         void Hesapla();
         void BiseyYap();

@@ -23,7 +23,7 @@ namespace OOP2
             musteri2.VergiNo = "1234567890";
 
             //Gerçek Müşteri - Tüzel Müşteri
-            //SOLID Prensibi
+            //SOLID Prensibi L Harfi
 
             Musteri musteri3 = new GercekMusteri(); //new görünce ref. no gelsin akla.
             Musteri musteri4 = new TuzelMusteri();
